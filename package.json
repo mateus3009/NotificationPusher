@@ -1,0 +1,12 @@
+{
+  "name": "NotificationPusher",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mateus3009/NotificationPusher.git",
+  "author": "Mateus Sales Albino <mateus3009@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3",
+    "web-push": "^3.4.5"
+  }
+}
